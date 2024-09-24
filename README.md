@@ -1,4 +1,4 @@
-<video href="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen%20open.gif?raw=true">
+
 <h1 align="center">Hi 👋, I'm Muhammad Rohan</h1>
 <h3 align="center">A Student Of Web Development in Pakistan</h3>
 
