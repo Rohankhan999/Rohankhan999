@@ -1,6 +1,10 @@
-
 <h1 align="center">Hi 👋, I'm Muhammad Rohan</h1>
 <h3 align="center">A Student Of Web Development in Pakistan</h3>
+
+<!-- Embedding a GIF -->
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/c029892b-5f91-42f2-8c00-461b360d688f" alt="Rolling Chair Gif">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankhan999&label=Profile%20views&color=0e75b6&style=flat" alt="rohankhan999" /> </p>
 
